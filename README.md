@@ -16,12 +16,9 @@
 ![Estatísticas de Geoo-Loos](https://github-readme-stats.vercel.app/api?username=Geoo-Loos&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoo-Loos&layout=compact&theme=dracula)
 
-### 📫 Como me encontrar
-- **GitHub:** [Geoo-Loos](https://github.com/Geoo-Loos)
-- **LinkedIn:** [Seu link do LinkedIn aqui]
 
 
- <div style="display: inline_block"><br>
+ <div style="display: flex"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,11 +29,9 @@
 </div>
   
   ##
- 
+ ### 📫 Como me encontrar
 <div> 
   
-  
- 
   <a href = "mailto:geovanna.coura.lopes.2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanna-c-53153631b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
