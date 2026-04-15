@@ -1,5 +1,24 @@
  ![Image](https://github.com/user-attachments/assets/7a9ab019-1166-4cc1-88ac-c9f7c3bbc6e0)
+# Olá, eu sou a Geovanna! 👋
 
+### 💻 Sobre mim
+- 🎓 Estudante do 3º semestre de **Ciência da Computação** na UCB (EAD).
+- 🚀 **Estagiária de Tecnologia**, focada em aprender e aplicar boas práticas de desenvolvimento.
+- 🧠 Atualmente aprofundando conhecimentos em **Java, Spring Boot e JPA/Hibernate**.
+- 📊 Interessada em **Finanças Pessoais** e como a tecnologia pode ajudar na gestão de investimentos.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, SQL (MySQL/MariaDB), HTML, CSS.
+- **Frameworks/Libs:** Spring Boot, JPA, Hibernate, Bootstrap.
+- **Ferramentas:** Git, GitHub, Maven, XAMPP.
+
+### 📈 Estatísticas do GitHub
+![Estatísticas de Geoo-Loos](https://github-readme-stats.vercel.app/api?username=Geoo-Loos&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoo-Loos&layout=compact&theme=dracula)
+
+### 📫 Como me encontrar
+- **GitHub:** [Geoo-Loos](https://github.com/Geoo-Loos)
+- **LinkedIn:** [Seu link do LinkedIn aqui]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoo-Loos&show_icons=true&theme=radical)
 
  <div style="display: inline_block"><br>
