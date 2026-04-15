@@ -19,7 +19,7 @@
 ### 📫 Como me encontrar
 - **GitHub:** [Geoo-Loos](https://github.com/Geoo-Loos)
 - **LinkedIn:** [Seu link do LinkedIn aqui]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoo-Loos&show_icons=true&theme=radical)
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
