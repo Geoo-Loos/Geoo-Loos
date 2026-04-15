@@ -29,7 +29,7 @@
     <td><img src="https://github.com/user-attachments/assets/26dea356-daf2-4c65-84f9-1098495bd41a" alt="Csharp" height="30" width="40"></td>
   </tr>
 </table>
-  ##
+  
  ### 📫 Como me encontrar
 <div> 
   
